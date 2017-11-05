@@ -1,0 +1,6 @@
+# conda environments:
+#
+u_lab2.7                 /Users/annayoung/anaconda3/envs/u_lab2.7
+u_lab3.6              *  /Users/annayoung/anaconda3/envs/u_lab3.6
+root                     /Users/annayoung/anaconda3
+
